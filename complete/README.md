@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Getting Started: Working with JMS from Spring
 =========================================
 
@@ -95,9 +94,3 @@ There's more to building and working with JDBC and datastores in general than is
 * Securing a REST endpoint with OAuth
 * Consuming REST APIs
 * Testing REST APIs
-
-
-=======
-gs-consuming-jms
-================
->>>>>>> refs/rewritten/adding-initial-JMS-example-
